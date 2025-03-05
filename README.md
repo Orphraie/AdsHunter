@@ -35,5 +35,7 @@ The key functionality is implemented below:
 
 
 This asynchronous method intercepts HTTP responses before they reach the client. It checks the request's URL and headers to identify ad content from specific sources.
+
 For Twitch, if the URL matches the ad endpoint, the response body is replaced with an empty string, effectively blocking the ad.
+
 For YouTube, it examines both the URL and header for indicators of an ad (like "&ctier=" or "ad-id="), and similarly clears the response content if an ad is detected.
