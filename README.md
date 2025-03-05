@@ -1,2 +1,1 @@
-# AdsHunter
-AdsHunter est une application .NET agissant comme un proxy MITM pour intercepter et bloquer les publicités en ligne. 
+AdsHunter is a .NET application that acts as a MITM proxy to intercept and block online advertisements.
