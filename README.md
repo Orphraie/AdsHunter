@@ -1,4 +1,4 @@
-AdsHunter is a .NET application that acts as a MITM proxy to intercept and block online advertisements.
+AdsHunter is a .NET application that acts as a MITM (Man-In-The-Middle) proxy to intercept and block YouTube and Twitch video advertisements.
 
 The key functionality is implemented below:
 
