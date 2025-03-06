@@ -38,6 +38,10 @@ The key functionality is implemented below:
 
 This asynchronous method intercepts HTTP responses before they reach the client. It checks the request's URL and headers to identify ad content from specific sources.
 
-For Twitch, if the URL matches the ad endpoint, the response body is replaced with an empty string, effectively blocking the ad.
+### Support this project with cryptocurrency donations
 
-For YouTube, it examines both the URL and header for indicators of an ad (like "&ctier=" or "ad-id="), and similarly clears the response content if an ad is detected.
+If you'd like to support this project, you can donate Bitcoin on Lightning network (BTC) to the following address:
+
+`lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkgctjd9hxwumpd3skgvec4sf9fk`
+
+Thank you for your support!
