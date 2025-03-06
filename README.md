@@ -40,10 +40,8 @@ To block Twitch ads, you need to clear the browser data before running this app,
 
 This asynchronous method intercepts HTTP responses before they reach the client. It checks the request's URL and headers to identify ad content from specific sources.
 
-☕ Support this project with cryptocurrency donations
-
-If you'd like to support this project, you can donate Bitcoin on Lightning network (BTC) to the following address:
+☕ If you'd like to support this project, you can donate Bitcoin on Lightning network (BTC) to the following address:
 
 `lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkgctjd9hxwumpd3skgvec4sf9fk`
 
-Thank you for your support !
+Thank you for your support ? 🪙
