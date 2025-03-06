@@ -44,4 +44,4 @@ This asynchronous method intercepts HTTP responses before they reach the client.
 
 `lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkgctjd9hxwumpd3skgvec4sf9fk`
 
-Thank you for your support 🪙
+Thank you for your support 👍
