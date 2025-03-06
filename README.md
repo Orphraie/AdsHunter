@@ -38,7 +38,7 @@ The key functionality is implemented below:
 
 This asynchronous method intercepts HTTP responses before they reach the client. It checks the request's URL and headers to identify ad content from specific sources.
 
-### Support this project with cryptocurrency donations
+☕ Support this project with cryptocurrency donations
 
 If you'd like to support this project, you can donate Bitcoin on Lightning network (BTC) to the following address:
 
